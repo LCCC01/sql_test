@@ -3,4 +3,4 @@ WHERE City = "Stockholm";
 
 SELECT * FROM Customers c 
 
-
+HEJ
